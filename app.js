@@ -1,2 +1,2 @@
 alert("i love javaScript")
-document.write
+document.write;
