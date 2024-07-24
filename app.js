@@ -21,4 +21,9 @@ var b = 4;
 var c = a / b;
 console.log(c);
 
+var a = 6;
+var b = 4;
+var c = a / b;
+console.log(c);
+
 
