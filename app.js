@@ -59,7 +59,12 @@
 //   marks : 80,
 // };
 
+// is tarha value chnage bhi hoa sakti hai object mai
+// student ["fullName"] = "shahzad khanani" 
+// student ["age"] = student ["age"] + 1
+
 // console.log(student);
+
 
 
 
