@@ -22,9 +22,21 @@
 // console.log(c);
 
 
+// let say hum jw b variable banaty hai usay change kar skaty hai update karsakty hai
+// ya global hoata hai
 
+// let firstName = "shahzad khanani";
+// let age = 29;
+// let city = "karachi";
 
+// console.log(firstName);
 
+// const say hum jw b variable banatay hai usay change nahi kar sakty block hoata hai
 
+const a = 10;
+
+const b = 20;
+
+console.log(a + b);
 
 
