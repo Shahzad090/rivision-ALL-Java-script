@@ -4,6 +4,7 @@
 // document.write;
 
 // variables are containers of data.. data wo jw change hoa skay usay var kahtay hai.
+// or ya GLBAL  SCOOPE HOATA HAI...
 
 // var a = 2
 // var b = 3
@@ -22,8 +23,9 @@
 // console.log(c);
 
 
-// let say hum jw b variable banaty hai usay change kar skaty hai update karsakty hai
-// ya global hoata hai
+// let say hum jw b variable banaty hai usay change kar skaty hai update  NAHI karsakty hai
+// ya block scoope kahlata  hoata hai...
+
 
 // let firstName = "shahzad khanani";
 // let age = 29;
@@ -31,12 +33,34 @@
 
 // console.log(firstName);
 
-// const say hum jw b variable banatay hai usay change nahi kar sakty block hoata hai
+// const say hum jw b variable banatay hai usay change nahi kar sakty block SCOOPE hoata hai
+// OR NA HE USAY UPDATE KAR SKATAY HAI...
 
-const a = 10;
 
-const b = 20;
+// const a = 10;
 
-console.log(a + b);
+// const b = 20;
+
+// console.log(a + b);
+
+// premetive data types of (7)...
+// 1. number
+// 2. string
+// 3.boolean
+// 5. undefined
+// 6. symbol
+// 7. bigInt
+
+// NOW START OBJECT...
+
+// const student = {
+//   fullName : "shahzad",
+//   age : 30,
+//   marks : 80,
+// };
+
+// console.log(student);
+
+
 
 
