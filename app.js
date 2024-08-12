@@ -96,3 +96,27 @@
 // console.log("a -= 4 =", a); 
 // console.log("a /= 4 =", a); 
 // console.log("a *= 4 =", a); 
+
+// Comparison Operator
+// let a = 5;
+// let b = 2;
+
+// console.log("5 == 2", a == b); // false bcz not equal
+// console.log("5 == 5", a == b); // true bcz is equal
+// console.log("5 != 2", a != b); // true bcz is  not equal
+
+// let a = 5;
+// let b = 3;
+
+// console.log("a == b", a == b); // true islie aya string kw number mai covert karta h javaScript or ya equal hoarhy h 
+// console.log("a === b", a === b); // triple eziqual two number kai sth value b chek karta hai islie aya flase
+// console.log("a !== b", a !== b); //or ya double equal 2 ki terha kaam karta hai isliye aya true.
+
+// console.log("5 > 3", a > b); // true bcz a is greater than
+// console.log("5 < 3", a < b); // flase bcz a is less than
+
+// let a = 5;
+// let b = 6;
+
+// console.log("5 <= 5", a <= b); // true aega 
+// console.log("5 >= 6", a >= b); // true aega
