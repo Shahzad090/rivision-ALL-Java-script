@@ -65,7 +65,13 @@
 
 // console.log(student);
 
+// <<.......... CHAPTER 2  ..........>>
 
+// Artimetic Operators
+let a = 5;
+let b = 10;
+
+console.log("a , b =", a + b);
 
 
 
