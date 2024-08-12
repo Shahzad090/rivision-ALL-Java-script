@@ -68,15 +68,31 @@
 // <<.......... CHAPTER 2  ..........>>
 
 // Artimetic Operators
-let a = 5;
-let b = 10;
+// let a = 5;
+// let b = 2;
 
-console.log("a = ", a, " & b = ", b,);
-console.log("a + b =", a + b);
-console.log("a - b =", a - b);
-console.log("a * b =", a * b);
-console.log("a % b =", a % b);
-console.log("a / b =", a / b);
+// console.log("a = ", a, " & b = ", b,);
+// console.log("a + b =", a + b); //7
+// console.log("a - b =", a - b); //3
+// console.log("a * b =", a * b); //10
+// console.log("a % b =", a % b); //1
+// console.log("a / b =", a / b); //2.5
+// console.log("a ** b =", a ** b); //25
+// a++ //6
+// console.log("a = ",a);
+// a-- 
+// console.log("a-- = ",a--); //nt Opera
 
+// Assignment Operator
+// let a = 5;
+// let b = 2;
 
+// a += 4; // a = a(5) + 4 = 9
+// a -= 4; // a = a(5) - 4 = 1
+// a /= 4; // a = a(5) / 4 = 1
+// a *= 4; // a = a(5) * 4 = 625
 
+// console.log("a += 4 =", a); 
+// console.log("a -= 4 =", a); 
+// console.log("a /= 4 =", a); 
+// console.log("a *= 4 =", a); 
