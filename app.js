@@ -115,8 +115,8 @@
 // console.log("5 > 3", a > b); // true bcz a is greater than
 // console.log("5 < 3", a < b); // flase bcz a is less than
 
-let a = 5;
-let b = 6;
+// let a = 5;
+// let b = 7;
 
-console.log("5 <= 5", a <= b); // true aega 
-console.log("5 >= 6", a >= b); // true aega
+// console.log("5 <= 5", a <= b); // true aega 
+// console.log("5 >= 6", a >= b); // true aega
