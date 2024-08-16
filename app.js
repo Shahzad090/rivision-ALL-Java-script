@@ -120,3 +120,33 @@
 
 // console.log("5 <= 5", a <= b); // true aega 
 // console.log("5 >= 6", a >= b); // true aega
+
+// Logical Operators
+// let a = 6;
+//  let b = 5;
+
+//  let cond1 = a > b; // true
+//  let cond2 = a === 6;
+
+// console.log("cond1 && cond2 = ", cond1 && cond2)
+ 
+// let a = 6;
+//  let b = 5;
+
+// let cond1 = a < b; // false
+//  let cond2 = a === 6;
+
+// console.log("cond1 && cond2 = ", cond1 && cond2)
+
+// let a = 6;
+//  let b = 5;
+
+// let cond1 = a < b; // false
+//  let cond2 = a === 6;
+
+// console.log("cond1 || cond2 = ", cond1 || cond2)
+
+
+
+
+
