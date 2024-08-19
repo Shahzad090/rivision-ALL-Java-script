@@ -234,17 +234,29 @@
 
 // console.log(color); // black result
 
-let mode = "silver";
-let color;
+// let mode = "silver";
+// let color;
 
-if (mode === "dark") {
-    color = "black";
-  } else if (mode === "pink") {
-    color = "pink";
-  } else if (mode === "blue") {
-    color = "blue";
-  } else {
-    color = "white";
-  }
+// if (mode === "dark") {
+//     color = "black";
+//   } else if (mode === "pink") {
+//     color = "pink";
+//   } else if (mode === "blue") {
+//     color = "blue";
+//   } else {
+//     color = "white";
+//   }
   
-  console.log(color); //  result
+//   console.log(color); //  white result
+
+// <<<<<<<, TERNARY OPERATORS >>>>>>>>>>>
+
+// let age = 25;
+
+// let result = age > 18 ? "adult" : "not adult";
+// console.log(result); // adult result
+
+// let age = 17;
+
+// let result = age > 18 ? "adult" : "not adult";
+// console.log(result); //not adult result
