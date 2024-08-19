@@ -83,7 +83,9 @@
 // a-- 
 // console.log("a-- = ",a--); //nt Opera
 
-// Assignment Operator
+// <<<<<<<<<<<Assignment Operator>>>>>>>>>>
+
+
 // let a = 5;
 // let b = 2;
 
@@ -97,7 +99,8 @@
 // console.log("a /= 4 =", a); 
 // console.log("a *= 4 =", a); 
 
-// Comparison Operator
+// <<<<<<<<<<Comparison Operator>>>>>>>>>>
+
 // let a = 5;
 // let b = 2;
 
@@ -154,7 +157,8 @@
 
 // console.log("(6 < 5) = ", !(a < b)); // true
  
-// CONDITIONAL STATEMENTS
+// <<<<<<<<<<<<<<<<<<<<<<<<CONDITIONAL STATEMENTS>>>>>>>>>>>>
+
 // let age = 16;
 
 // if (age >= 18) {
@@ -192,10 +196,12 @@
 
 // console.log(color); // white result
 
-let age = 25
+// let age = 25
 
-if (age >= 18) {
-    console.log("vote");
-} else {
-    console.log("no vote");
-}
+// if (age >= 18) {
+//     console.log("vote");
+// } else {
+//     console.log("no vote");
+// }
+
+
