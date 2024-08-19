@@ -250,6 +250,7 @@
 //   console.log(color); //  white result
 
 // <<<<<<<, TERNARY OPERATORS >>>>>>>>>>>
+//(simpler , compact if-else)
 
 // let age = 25;
 
@@ -260,3 +261,22 @@
 
 // let result = age > 18 ? "adult" : "not adult";
 // console.log(result); //not adult result
+
+// <<<<<, SWITCH STATEMENT >>>>>>>>>>
+// (PROPMT)
+
+// let num = prompt("enter a number:");
+
+// if (num % 5 === 0) {
+//     console.log(num, "is a multiple of 5");
+// } else {
+//     console.log(num, "is NOT a multiple of 5");
+// } 
+
+// let num = prompt("enter a number:");
+
+// if (num % 3 === 0) {
+//     console.log(num, "is a multiple of 5");
+// } else {
+//     console.log(num, "is NOT a multiple of 5");
+// }
