@@ -1,4 +1,4 @@
-// simple alert method
+// <<<<<<<<<simple alert method>>>>>>>>>>>>
 
 // alert("i love javaScript")
 // document.write;
@@ -23,8 +23,8 @@
 // console.log(c);
 
 
-// let say hum jw b variable banaty hai usay change kar skaty hai update  NAHI karsakty hai
-// ya block scoope kahlata  hoata hai...
+// <<<let say hum jw b variable banaty hai usay change kar skaty hai update  NAHI karsakty hai
+// ya block scoope kahlata  hoata hai...>>>
 
 
 // let firstName = "shahzad khanani";
@@ -51,7 +51,7 @@
 // 6. symbol
 // 7. bigInt
 
-// NOW START OBJECT...
+// <<<<<<<<NOW START OBJECT...>>>>>>>>>>
 
 // const student = {
 //   fullName : "shahzad",
@@ -124,7 +124,8 @@
 // console.log("5 <= 5", a <= b); // true aega 
 // console.log("5 >= 6", a >= b); // true aega
 
-// Logical Operators
+// <<<<<<<<<<<Logical Operators>>>>>>>>>
+
 // let a = 6;
 //  let b = 5;
 
@@ -205,3 +206,12 @@
 // }
 
 
+// <<<<<<<<<<<   ODD & EVEN NUMBERS CHECK >>>>>>>>>>>
+
+let num = 10;
+
+if (num % 2 === 0) {
+    console.log("Even number");
+} else (num % 2 === 0) {
+    console.log("odd");
+}
