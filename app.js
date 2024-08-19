@@ -219,8 +219,8 @@
 
 // <<<<<<if and if else and else condition chek and practice how do work>>>>>>>
 
-let mode = "dark";
-let color;
+// let mode = "dark";
+// let color;
 
 // if (mode === "dark") {
 //   color = "black";
@@ -234,6 +234,9 @@ let color;
 
 // console.log(color); // black result
 
+let mode = "silver";
+let color;
+
 if (mode === "dark") {
     color = "black";
   } else if (mode === "pink") {
@@ -244,4 +247,4 @@ if (mode === "dark") {
     color = "white";
   }
   
-  console.log(color); // black result
+  console.log(color); //  result
