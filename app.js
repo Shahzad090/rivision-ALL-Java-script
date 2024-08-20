@@ -325,4 +325,6 @@
 //   (WHILE LOOOOPSSS )
 
 let i = 1;
-while ()
+while (i <= 5) {
+    console.log("apna college");
+}
