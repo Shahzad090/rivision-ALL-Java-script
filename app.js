@@ -324,7 +324,15 @@
 
 //   (WHILE LOOOOPSSS )
 
-let i = 1;
-while (i <= 5) {
-    console.log("apna college");
-}
+// let i = 1;
+// while (i <= 5) {
+//     console.log("apna college");
+//     i++;
+// }
+
+
+// let i = 1;
+// while (i <= 10) {
+//     console.log("apna college");
+//     i++;
+// }
