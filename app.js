@@ -353,3 +353,10 @@
 // } while (i <= 10);
 
 
+// <<<<<<<    FOR OFLOPPS   >>>>>>>>>>>>>>>
+
+let str = "apnaCollege";
+
+for(let i of str) {
+    console.log("i=",i);
+}
