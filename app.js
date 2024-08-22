@@ -367,3 +367,16 @@
 // }
 
 // console.log("string size = ", size); // 10
+
+// <<<<<<<    FOR IN LOPPS   >>>>>>>>>>>>>>>
+
+// let student = {
+//     name: "shahzad",
+//     Age: 20,
+//     percetage: 78,
+//     isPass: true,
+// };
+
+// for (let key in student) {
+//     console.log("key =", key , " value=", student[key]);
+// }
