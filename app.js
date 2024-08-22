@@ -402,14 +402,14 @@
 //     }
 // }
 
-// question 2 practice,,,,,,,,,
+// qlike a gameuestion 2 practice,,,,,,,,,
 
-let gameNum = 25;
+// let gameNum = 25;
+// let userNum = prompt("Guess the game number : ");
 
-let userNum =prompt("Guess the game number : ");
+// while(userNum != gameNum) { //game
+//   userNum = prompt("you enter the wrong number , guess again ");
 
-while(userNum !== gameNum) { //game
+// }
 
-}
-
-console.log("Congratulations, you enter the correct number");
+// console.log("Congratulations, you enter the correct number");
