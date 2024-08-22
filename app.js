@@ -340,11 +340,3 @@
 // <<<<<<<<<,, DO-WHILEL LOOPS>>>>>...
 
 
-// let i = 1;
-// while (i <= 10) {
-//     console.log("apna college");
-//     i++;
-// }
-
-// <<<<<<<<<,, DO-WHILEL LOOPS>>>>>...
-
