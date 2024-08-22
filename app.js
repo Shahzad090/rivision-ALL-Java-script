@@ -381,6 +381,8 @@
 //     console.log("key =", key , " value=", student[key]);
 // }
 
+// question 1 practice.......
+
 // for (let num = 0; num <= 100; num++) {
 //     console.log("num ", num);
 // }
@@ -399,3 +401,15 @@
 //         console.log("num ", num);
 //     }
 // }
+
+// question 2 practice,,,,,,,,,
+
+let gameNum = 25;
+
+let userNum =prompt("Guess the game number : ");
+
+while(userNum !== gameNum) { //game
+
+}
+
+console.log("Congratulations, you enter the correct number");
