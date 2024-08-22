@@ -298,7 +298,6 @@
 
 // console.log(grade);
 
-
 ///<<<<<<<<< CHAPTER 3 START NOW>>>>>>>>>>
 //   (FOR LOOOOPSSS )
 
@@ -311,7 +310,6 @@
 // for (let i = 1; i <= 5; i++)
 //     sum = sum + i;
 // console.log("sum, ", sum);
-
 
 // // calculate sum 1 to 100
 // let sum = 0;
@@ -330,7 +328,6 @@
 //     i++;
 // }
 
-
 // let i = 1;
 // while (i <= 10) {
 //     console.log("apna college");
@@ -345,18 +342,28 @@
 //     i++;
 // } while (i <= 10);
 
-
 // let i = 1;
 // do {
 //     console.log("i= ",i);
 //     i++;
 // } while (i <= 10);
 
-
 // <<<<<<<    FOR OFLOPPS   >>>>>>>>>>>>>>>
 
-let str = "apnaCollege";
+// let str = "apnaCollege";
 
-for(let i of str) {
-    console.log("i=",i);
-}
+// for (let i of str) {// iterotor 
+//   console.log("i=", i);
+// }
+
+
+
+// let str = "javaScript";
+
+// let size = 0;
+// for (let i of str) {
+//   console.log("i=", i);
+//   size++;
+// }
+
+// console.log("string size = ", size); // 10
